@@ -43,7 +43,7 @@ Interview_Analyzer/
 └── Documentation/
     ├── README.md
     ├── QUICK_START.md
-    ├── FLOW_DIAGRAM.md
+    ├── FLOW_DIAGRAM.png
     ├── EXAMPLE_OUTPUT.md
     └── PROJECT_SUMMARY.md
 ```
